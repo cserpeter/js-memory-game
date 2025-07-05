@@ -1,2 +1,3 @@
 # js-memory-game
-A basic version of the classic memory game Concentration.
+
+A "spooky" halloween themed version of the classic memory game Concentration.
